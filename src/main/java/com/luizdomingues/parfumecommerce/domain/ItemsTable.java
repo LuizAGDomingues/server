@@ -37,4 +37,5 @@ public class ItemsTable {
         this.quantity = data.quantity();
         this.ratio = data.ratio();
     }
+
 }
